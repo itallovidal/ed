@@ -13,3 +13,5 @@
 // -> Rotacão Esquerda-Esquerda  (Rotacão simples)
 // -> Rotacão Direita-Esquerda (Rotacão simples)
 // -> Rotacão Direita-Direita (Rotacão dupla)
+
+// https://www.w3schools.com/dsa/dsa_data_avltrees.php
